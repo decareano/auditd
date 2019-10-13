@@ -1,3 +1,3 @@
-describe package('auditd') do
+describe package('audit') do
   it { should be_installed }
 end
